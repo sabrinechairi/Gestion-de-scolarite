@@ -1,0 +1,9 @@
+<Gscolarite>
+  <Etudiant>
+    <Id>1</Id>
+    <Nom>Chairi El Kammel</Nom>
+    <Prenom>Sabrine</Prenom>
+    <NumApogee>20032721</NumApogee>
+    <Master>Master M2I</Master>
+  </Etudiant>
+<Etudiant><Id>2</Id><Nom>El Hasri</Nom><Prenom>Aya</Prenom><NumApogee>20033618</NumApogee><Master>Master M2I</Master></Etudiant><Etudiant><Id>3</Id><Nom>ElGhouzli</Nom><Prenom>Yassine</Prenom><NumApogee>2003123</NumApogee><Master>Master MQL</Master></Etudiant><Prof><Id>1</Id><Nom>El Hamdouni</Nom><Prenom>Saad</Prenom><Immatriculation>1234</Immatriculation><Departement>Informatique</Departement></Prof><Prof><Id>2</Id><Nom>Sarokh</Nom><Prenom>Achraf</Prenom><Immatriculation>9876</Immatriculation><Departement>Math&#233;matiques</Departement></Prof><Prof><Id>3</Id><Nom>Belarri</Nom><Prenom>Mohsine</Prenom><Immatriculation>5678</Immatriculation><Departement>Physique</Departement></Prof><Module><ModuleId>1</ModuleId><EtudiantNumApogee>20032721</EtudiantNumApogee><ProfMatricule>1234</ProfMatricule><Nom>Algorithme</Nom></Module><Module><ModuleId>2</ModuleId><EtudiantNumApogee>20033618</EtudiantNumApogee><ProfMatricule>9876</ProfMatricule><Nom>Analyse</Nom></Module><Module><ModuleId>3</ModuleId><EtudiantNumApogee>2003123</EtudiantNumApogee><ProfMatricule>5678</ProfMatricule><Nom>Mecanique</Nom></Module><Note><ID>1</ID><EtudiantNumApogee>20032721</EtudiantNumApogee><Module_ID>1</Module_ID><Note>17</Note></Note><Note><ID>2</ID><EtudiantNumApogee>20033618</EtudiantNumApogee><Module_ID>2</Module_ID><Note>16</Note></Note><Note><ID>3</ID><EtudiantNumApogee>2003123</EtudiantNumApogee><Module_ID>3</Module_ID><Note>15</Note></Note></Gscolarite>
